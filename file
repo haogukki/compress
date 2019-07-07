@@ -1,0 +1,49 @@
+data/txt/0001.txt : lz77 压缩程序的运行时间为：80秒！
+data/txt/0001.txt.fzip : lz77 解压缩程序的运行时间为：26.28秒！
+data/txt/0002.txt : lz77 压缩程序的运行时间为：76.68秒！
+data/txt/0002.txt.fzip : lz77 解压缩程序的运行时间为：25.58秒！
+data/txt/0003.txt : lz77 压缩程序的运行时间为：100.45秒！
+data/txt/0003.txt.fzip : lz77 解压缩程序的运行时间为：32.43秒！
+data/txt/0004.txt : lz77 压缩程序的运行时间为：92.45秒！
+data/txt/0004.txt.fzip : lz77 解压缩程序的运行时间为：30.3秒！
+data/txt/0005.txt : lz77 压缩程序的运行时间为：89.12秒！
+data/txt/0005.txt.fzip : lz77 解压缩程序的运行时间为：29.39秒！
+
+37M 0001.txt
+34M 0001.txt.fzip
+37M 0001.txt.fzip.ufzip
+36M 0002.txt
+34M 0002.txt.fzip
+36M 0002.txt.fzip.ufzip
+47M 0003.txt
+44M 0003.txt.fzip
+47M 0003.txt.fzip.ufzip
+43M 0004.txt
+40M 0004.txt.fzip
+43M 0004.txt.fzip.ufzip
+42M 0005.txt
+39M 0005.txt.fzip
+42M 0005.txt.fzip.ufzip
+
+1.2M    0001.docx
+1.4M    0001.docx.fzip
+1.2M    0001.docx.fzip.ufzip
+212K    0001.pdf
+236K    0001.pdf.fzip
+212K    0001.pdf.fzip.ufzip
+
+20K 0001.png
+20K 0001.png.fzip
+20K 0001.png.fzip.ufzip
+72K 0002.png
+80K 0002.png.fzip
+72K 0002.png.fzip.ufzip
+52K 0003.png
+52K 0003.png.fzip
+52K 0003.png.fzip.ufzip
+60K 0004.png
+64K 0004.png.fzip
+60K 0004.png.fzip.ufzip
+24K 0005.png
+24K 0005.png.fzip
+24K 0005.png.fzip.ufzip
