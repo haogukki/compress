@@ -3,10 +3,10 @@
  *   Email           : 13669186256@163.com
  *   Last modified   : 2019-07-07 11:28
  *   Filename        : Lz77.h
- *   Description     : 
+ *   Description     : lz77 算法文件压缩
+ *   其算法的主要思想是，用距离 + 长度的这种数据对的方式
+ *   进行替换，用索引值表示重复出现的正文
  * *******************************************************/
-
-#define _CRT_SECURE_NO_WARNINGS 1
 
 #ifndef LZ77_H
 #define LZ77_H
@@ -21,7 +21,7 @@
 const size_t N = 2 * 32 * 1024;
 enum {
     SlipBlock = 32 * 1024
-}; // cache
+};
 
 typedef long long LongType;
 
