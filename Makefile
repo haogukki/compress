@@ -1,9 +1,8 @@
 PROJECT 	:= $(shell pwd)
 SRC 		:= $(wildcard $(PROJECT)/src/*.cpp)
 CXX 		:= g++
-CC 			:= gcc
 TARGET 		:= Jarvis
-FLAGS		:= -O3 -Wall -g -std=c++11
+FLAGS		:= -O3 -Wall -pg -std=c++11
 
 all : $(TARGET)
 
