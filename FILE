@@ -1,0 +1,45 @@
+/**********************************************************
+ *   Author          : Apriluestc
+ *   Email           : 13669186256@163.com
+ *   Last modified   : 2019-07-08 10:05
+ *   Filename        : FILE
+ *   Description     : 通过对比压缩前后文件的 md5 值，
+                        从而验证是否为无损压缩
+ * *******************************************************/
+
+18c6f09f7aab249169f6cf8e7bf2cfda  test/0001.docx
+eb9fee83528b5be454645ce276282784  test/0001.docx.fzip
+18c6f09f7aab249169f6cf8e7bf2cfda  test/0001.docx.fzip.ufzip
+5e461d8f469a8e7241c2c01421730fa4  test/0001.pdf
+b1f73caa151fc9e7ba064af06b0fe83d  test/0001.pdf.fzip
+5e461d8f469a8e7241c2c01421730fa4  test/0001.pdf.fzip.ufzip
+5ae1b179cfee6af87f86fb12cc230f09  test/0001.png
+bc9e53b087a2eab8796da1dc6325e02a  test/0001.png.fzip
+5ae1b179cfee6af87f86fb12cc230f09  test/0001.png.fzip.ufzip
+614fa5c83e8975c884430e491ca1136f  test/0001.txt
+7074bdff7e9f4930fea96ffb368d271b  test/0001.txt.fzip
+614fa5c83e8975c884430e491ca1136f  test/0001.txt.fzip.ufzip
+c6733790ce03de74298efe949e1cc1d6  test/0002.png
+fd286f975115db6379622faebeefd094  test/0002.png.fzip
+c6733790ce03de74298efe949e1cc1d6  test/0002.png.fzip.ufzip
+450de7c28ee724e7ffca726bfea2f55a  test/0002.txt
+254ac0b221d711556b3cc84a2e51dc51  test/0002.txt.fzip
+450de7c28ee724e7ffca726bfea2f55a  test/0002.txt.fzip.ufzip
+98b633f4cc22d92d94f2c246608a5983  test/0003.png
+eb3bfd6d1511427415f072fe488a12e5  test/0003.png.fzip
+98b633f4cc22d92d94f2c246608a5983  test/0003.png.fzip.ufzip
+ce46706be28de6c879aebe82b11701fd  test/0003.txt
+1c10162748329756dd49930efe9658a4  test/0003.txt.fzip
+ce46706be28de6c879aebe82b11701fd  test/0003.txt.fzip.ufzip
+55201d80cdd4f2140d1e1eb5eddcc73d  test/0004.png
+c57d8fb24e3dea44a724eb42f6ae9335  test/0004.png.fzip
+55201d80cdd4f2140d1e1eb5eddcc73d  test/0004.png.fzip.ufzip
+40118396c3d3d0b988d73cf50dc589c3  test/0004.txt
+666fcf48bed148c2eaa91f524d8a1968  test/0004.txt.fzip
+40118396c3d3d0b988d73cf50dc589c3  test/0004.txt.fzip.ufzip
+750f6e273cc5a82ebfbd58d1042bb326  test/0005.png
+d270454f4e8aa53f28d60cefc44872eb  test/0005.png.fzip
+750f6e273cc5a82ebfbd58d1042bb326  test/0005.png.fzip.ufzip
+2447dffdcf603161fa6e94358190790d  test/0005.txt
+de4e4dc03bc8fb421f03b95247a4d5a8  test/0005.txt.fzip
+2447dffdcf603161fa6e94358190790d  test/0005.txt.fzip.ufzip
